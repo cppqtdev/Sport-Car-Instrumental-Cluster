@@ -1,0 +1,68 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>Panel.png</file>
+        <file>Speedometer.png</file>
+        <file>Tacometer.png</file>
+        <file>Top Bar.png</file>
+        <file>CircularGaugeMeter.qml</file>
+        <file>icons/icons-left/icon-park-solid_right-two.svg</file>
+        <file>icons/icons-left/mdi_car-battery.svg</file>
+        <file>icons/icons-left/mdi_car-handbrake.svg</file>
+        <file>icons/icons-left/mdi_car-tire-alert.svg</file>
+        <file>icons/icons-left/mdi_oil.svg</file>
+        <file>icons/icons-left/ph_engine-bold.svg</file>
+        <file>icons/icons-right/icon-park-solid_right-two.svg</file>
+        <file>icons/icons-right/mdi_car-brake-parking.svg</file>
+        <file>icons/icons-right/mdi_car-light-dimmed.svg</file>
+        <file>icons/icons-right/mdi_car-light-fog.svg</file>
+        <file>icons/icons-right/mdi_car-light-high.svg</file>
+        <file>icons/icons-right/mdi_seatbelt.svg</file>
+        <file>Component/IconButton.qml</file>
+        <file>icons/icons-left-checked/icon-park-solid_right-two.svg</file>
+        <file>icons/icons-left-checked/mdi_car-battery.svg</file>
+        <file>icons/icons-left-checked/mdi_car-handbrake.svg</file>
+        <file>icons/icons-left-checked/mdi_car-tire-alert.svg</file>
+        <file>icons/icons-left-checked/mdi_oil.svg</file>
+        <file>icons/icons-left-checked/ph_engine-bold.svg</file>
+        <file>icons/icons-right-checked/icon-park-solid_right-two.svg</file>
+        <file>icons/icons-right-checked/mdi_car-brake-parking.svg</file>
+        <file>icons/icons-right-checked/mdi_car-light-dimmed.svg</file>
+        <file>icons/icons-right-checked/mdi_car-light-fog.svg</file>
+        <file>icons/icons-right-checked/mdi_car-light-high.svg</file>
+        <file>icons/icons-right-checked/mdi_seatbelt.svg</file>
+        <file>icons/cloud.svg</file>
+        <file>icons/Road/carRoad.svg</file>
+        <file>icons/Road/Frame 33.png</file>
+        <file>icons/Road/mdi_clock-time-four-outline.svg</file>
+        <file>icons/Road/mdi_map-marker-outline.svg</file>
+        <file>icons/Road/mdi_turn-right-bold.svg</file>
+        <file>icons/Road/mingcute_steering-wheel-fill.svg</file>
+        <file>icons/Road/SpeedLimit.svg</file>
+        <file>icons/Road/road.png</file>
+        <file>icons/Road/road2.png</file>
+        <file>icons/Road/road3.svg</file>
+        <file>icons/Road/car.png</file>
+        <file>icons/Road/ss.svg</file>
+        <file>icons/bottom.png</file>
+        <file>icons/left.svg</file>
+        <file>icons/right.svg</file>
+        <file>icons/Vector 1.svg</file>
+        <file>icons/Vector 2.svg</file>
+        <file>icons/Vector 1.png</file>
+        <file>icons/Vector 2.png</file>
+        <file>icons/desal.svg</file>
+        <file>icons/feaul.svg</file>
+        <file>fontawesome.otf</file>
+        <file>CarModelSports.qml</file>
+        <file>CarLoader.qml</file>
+        <file>sportscar_15k.qgltf</file>
+        <file>sportscar_15k_1.bin</file>
+        <file>main2.qml</file>
+        <file>SportCarFloorShadow.png</file>
+        <file>Map11.jpg</file>
+        <file>CarViewSports.qml</file>
+        <file>tr.jpg</file>
+        <file>shade.png</file>
+    </qresource>
+</RCC>
